@@ -1,10 +1,5 @@
 package raygui
 
-/*
-#cgo CFLAGS: -DRAYGUI_IMPLEMENTATION -I../raylib/ -Wno-unused-result
-#include "raygui.h"
-#include <stdlib.h>
-*/
 import "C"
 
 import (
